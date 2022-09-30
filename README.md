@@ -1,0 +1,3 @@
+# Blood Vessel Extraction in Retinal Fundus Images
+---
+During this project I have created a function to segment blood vessels in retinal fundus images by applying a series of filters together with **unsupervised learning**.  More precisely, the algorithm presented by [Yavuz et al](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5559979/) was replicated in `Python` using images from the Digital Retinal Images for Vessel Extraction ([DRIVE](https://drive.grand-challenge.org/)) dataset.
